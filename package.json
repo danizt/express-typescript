@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev src/index.ts",
     "start": "node build/index.js",
     "tsc": "tsc",
     "lint": "eslint . --fix",
@@ -23,6 +24,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.2.0",
     "prettier": "^2.6.2",
+    "ts-node-dev": "^1.1.8",
     "typescript": "4.6.3"
   },
   "dependencies": {
