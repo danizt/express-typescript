@@ -13,6 +13,7 @@ Tutorial: [YouTube](https://youtu.be/4AFOCAgywLc)
 `/ping`
 
 <br>
+
 **GET** - Obterer todas las entradas del diario
 
 `/api/diaries`
