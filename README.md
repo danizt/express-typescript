@@ -27,4 +27,10 @@ npm run dev
 
 <br>
 
+**GET** - Obtener una entrada del diario sin comentarios dado un id
+
+`/api/diaries/:id`
+
+<br>
+
 # In progress...
