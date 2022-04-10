@@ -48,5 +48,3 @@ Parámetros:
 |    comment | string | \*                                              |
 
 <br>
-
-# In progress...
