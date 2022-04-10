@@ -6,6 +6,13 @@ Tutorial: [YouTube](https://youtu.be/4AFOCAgywLc)
 
 <br>
 
+## Instalación
+
+```
+npm install
+npm run dev
+```
+
 ## Endpoints
 
 **GET** - Comprobar estado del API
