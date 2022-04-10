@@ -21,7 +21,7 @@ npm run dev
 
 <br>
 
-**GET** - Obterer todas las entradas del diario sin comentarios
+**GET** - Obtener todas las entradas del diario sin comentarios
 
 `/api/diaries`
 
