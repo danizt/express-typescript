@@ -33,4 +33,20 @@ npm run dev
 
 <br>
 
+**POST** - Insertar una nueva entrada del diario
+
+`/api/diaries`
+
+Parámetros:
+
+|     Nombre | Tipo   | Valores admitidos                               |
+| ---------: | ------ | ----------------------------------------------- |
+|         id | number | \*                                              |
+|       date | string | \*                                              |
+|    weather | string | sunny · cloudy · rainy · snowy · windy · stormy |
+| visibility | string | great · good · ok · poor · bad                  |
+|    comment | string | \*                                              |
+
+<br>
+
 # In progress...
